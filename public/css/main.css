@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+}
+
+body {
+    overflow: hidden;
+    text-align: center;
+}
+
+canvas {
+    /* background-color: beige; */
+    background-image: url('https://wallpapercave.com/wp/uzY1YoN.jpg');
+    background-size: 1280px 540px;
+}
